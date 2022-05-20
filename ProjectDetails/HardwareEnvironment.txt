@@ -1,0 +1,4 @@
+The proposed model is implemented on a laptop with a 
+11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, 1382 Mhz, 4 Core(s), 8 Logical Processor(s) 
+8GB RAM,256 SSD,1TB HDD,1650 NVIDIA GEFORCE GTX GRAPHIC CARD
+and the Microsoft Windows 10 Pro 64-bit operating system.
